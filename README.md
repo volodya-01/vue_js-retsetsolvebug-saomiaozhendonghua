@@ -1,4 +1,5 @@
 # vue_js扫描帧动画bug修复 
+# 预览页：https://volodya-01.github.io/vue_js-retsetsolvebug-saomiaozhendonghua_preview/
 
 > A Vue.js project
 
